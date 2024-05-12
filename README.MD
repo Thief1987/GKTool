@@ -1,2 +1,3 @@
 Usage:
-	GKTool.exe archive_name
+     
+       GKTool.exe archive_name
